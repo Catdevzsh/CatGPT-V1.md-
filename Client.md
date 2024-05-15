@@ -1,0 +1,14 @@
+OpenAI Codex is an artificial intelligence model developed by OpenAI. It parses natural language and generates code in response. It powers GitHub Copilot, a programming autocompletion tool for select IDEs, like Visual Studio Code and Neovim.[1] Codex is a descendant of OpenAI's GPT-3 model, fine-tuned for use in programming applications.
+
+OpenAI released an API for Codex in closed beta.[1] In March 2023, OpenAI shut down access to Codex.[2] Due to public appeals from researchers, OpenAI reversed course.[3] The Codex model can still be used by researchers of the OpenAI Research Access Program.[4]
+
+Capabilities
+Based on GPT-3, a neural network trained on text, Codex was additionally trained on 159 gigabytes of Python code from 54 million GitHub repositories.[5][6] A typical use case of Codex is for a user to type a comment, such as "//compute the moving average of an array for a given window size", then use the AI to suggest a block of code that satisfies that comment prompt.[7] OpenAI stated that Codex can complete approximately 37% of requests and is meant to make human programming faster rather than to replace it. According to OpenAI's blog, Codex excels most at "mapping... simple problems to existing code", which they describe as "probably the least fun part of programming".[8][9] Jeremy Howard, co-founder of Fast.ai, stated that "Codex is a way of getting code written without having to write as much code", and that "it is not always correct, but it is just close enough".[10] According to a paper written by OpenAI researchers, when Codex attempted each test case 100 times, it generated working solutions for 70.2% of prompts.[11]
+
+OpenAI claims that Codex can create code in over a dozen programming languages, including Go, JavaScript, Perl, PHP, Ruby, Shell, Swift, and TypeScript, though it is most effective in Python.[1] According to VentureBeat, demonstrations uploaded by OpenAI showed impressive coreference resolution capabilities. The demonstrators were able to create a browser game in JavaScript and generate data science charts using matplotlib.[9]
+
+A very powerful language model called OpenAI Codex was created expressly to generate code in response to natural language commands. It is capable of understanding and producing code in a multitude of areas because it is compatible with a large number of programming languages and libraries. Codex is a useful tool for developers who want to optimize their coding processes because it can debug, parse natural language inquiries, and provide code completions.[12]
+
+OpenAI showed that Codex can interface with services and apps such as Mailchimp, Microsoft Word, Spotify, and Google Calendar.[9][13] Microsoft is reportedly interested in exploring[vague] Codex's capabilities.[13]
+
+This is a portal to the api to emulate it in Gemini 
